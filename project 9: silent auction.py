@@ -14,7 +14,7 @@ logo = '''
 print(logo)
 total_list = {}
 key = True
-
+ 
 while key:
   name = input("what is your name? :\n")
   bid = input("what is your bid? :\n")

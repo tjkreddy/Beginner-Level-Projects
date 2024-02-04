@@ -48,7 +48,7 @@ def play_game():
     print("invalid input")
 
 
-  #coumputer
+  #computer
   ran_game = random.randint(0,2)
   if ran_game == 0:
     print("computer \n" + rock)
@@ -57,7 +57,7 @@ def play_game():
   else:
     print("computor \n" + scissors)
 
-
+ 
   if ran_game == 0 and user == 1:
     print("you win")
   elif ran_game == 1 and user == 2:

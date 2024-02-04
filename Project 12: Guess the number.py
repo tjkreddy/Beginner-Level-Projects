@@ -32,3 +32,4 @@ while end_game == False:
     print("Too low.\nGuess again.")
   lives -= 1
   print(f"you have {lives} left")
+   

@@ -37,4 +37,5 @@ if path == "left":
   else:
     print("there was a creature in water \n game over")
 else:
-  print("you got lost game over")
+  print("you got lost game over") 
+  

@@ -103,7 +103,7 @@ while end_game == False:
   print("\n")
   print(f"you have {lives} lives!")
   if lives == 0:
-    print("you lose")
+    print("you lo se")
     break
   
   
@@ -111,4 +111,4 @@ while end_game == False:
     end_game = True
 
 print("\nYou Won")
-  
+   

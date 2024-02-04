@@ -22,7 +22,7 @@ while play_game == True:
   
   print(print_logo())
   user_cards = []
-  computer_cards = []
+  computer_cards = [] 
   exit_game = False
   
   for cards in range(2):
